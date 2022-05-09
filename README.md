@@ -32,7 +32,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ankitmeena01/UPLOADER-BOT-A/)
 
 ## BOT COMMANDS
 
@@ -46,17 +46,17 @@ heroku/python
 
 ## OTHER BOTS 🕊️
 
-* Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/rename_x_bot)
+* Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/vvvvvvvvvvuyffgh)
 
-* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/torrent_x_bot)
+* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/pqasndhdbd)
 
-* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_x_bot)
+* Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/qmonvx)
 
 ## Credits, and Thanks to
 
-* [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
-* [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [@DC4_WARRIOR](https://t.me/Space_X_bots) it's me
+* [@SpEcHlDe](https://t.me/ThankTelegrams) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
+* [Dan Tès](https://t.me/haskelsl) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [Yoily](https://t.me/Ysoilys) for his [UploaditBot](https://telegram.dog/UploaditBot)
+* [@DC4_WARRIOR](https://t.me/Saas_X_bots) it's me
 #### LICENSE
 - GPLv3
